@@ -1,0 +1,11 @@
+
+    Estadísticas Descriptivas:
+    Conteo: 3000 (Incluyendo 0 valores no válidos)
+    Media: 1.8790659927977443e+20
+    Mediana: 1.88008049965543e+20
+    Moda: #N/A
+    Desviación estándar: 1.0739995165766761e+20
+    Varianza muestral: 1.153474961606934e+40
+    
+    Tiempo de ejecución: 0.0 segundos
+    
