@@ -1,0 +1,50 @@
+Resultados de Conversión
+=========================
+-39 en binario: 0b11111111111111111111111111011001 en hexadecimal: 0xFFFFFFD9
+-36 en binario: 0b11111111111111111111111111011100 en hexadecimal: 0xFFFFFFDC
+8 en binario: 0b1000 en hexadecimal: 0x8
+34 en binario: 0b100010 en hexadecimal: 0x22
+17 en binario: 0b10001 en hexadecimal: 0x11
+49 en binario: 0b110001 en hexadecimal: 0x31
+5 en binario: 0b101 en hexadecimal: 0x5
+ABC en binario: #VALUE! en hexadecimal: #VALUE!
+0 en binario: 0b en hexadecimal: 0x
+33 en binario: 0b100001 en hexadecimal: 0x21
+12 en binario: 0b1100 en hexadecimal: 0xC
+-6 en binario: 0b11111111111111111111111111111010 en hexadecimal: 0xFFFFFFFA
+27 en binario: 0b11011 en hexadecimal: 0x1B
+-4 en binario: 0b11111111111111111111111111111100 en hexadecimal: 0xFFFFFFFC
+-38 en binario: 0b11111111111111111111111111011010 en hexadecimal: 0xFFFFFFDA
+26 en binario: 0b11010 en hexadecimal: 0x1A
+49 en binario: 0b110001 en hexadecimal: 0x31
+29 en binario: 0b11101 en hexadecimal: 0x1D
+42 en binario: 0b101010 en hexadecimal: 0x2A
+-16 en binario: 0b11111111111111111111111111110000 en hexadecimal: 0xFFFFFFF0
+ERR en binario: #VALUE! en hexadecimal: #VALUE!
+34 en binario: 0b100010 en hexadecimal: 0x22
+20 en binario: 0b10100 en hexadecimal: 0x14
+0 en binario: 0b en hexadecimal: 0x
+25 en binario: 0b11001 en hexadecimal: 0x19
+45 en binario: 0b101101 en hexadecimal: 0x2D
+3 en binario: 0b11 en hexadecimal: 0x3
+-46 en binario: 0b11111111111111111111111111010010 en hexadecimal: 0xFFFFFFD2
+-46 en binario: 0b11111111111111111111111111010010 en hexadecimal: 0xFFFFFFD2
+29 en binario: 0b11101 en hexadecimal: 0x1D
+33 en binario: 0b100001 en hexadecimal: 0x21
+29 en binario: 0b11101 en hexadecimal: 0x1D
+26 en binario: 0b11010 en hexadecimal: 0x1A
+-5 en binario: 0b11111111111111111111111111111011 en hexadecimal: 0xFFFFFFFB
+-36 en binario: 0b11111111111111111111111111011100 en hexadecimal: 0xFFFFFFDC
+12 en binario: 0b1100 en hexadecimal: 0xC
+45 en binario: 0b101101 en hexadecimal: 0x2D
+-50 en binario: 0b11111111111111111111111111001110 en hexadecimal: 0xFFFFFFCE
+0 en binario: 0b en hexadecimal: 0x
+-6 en binario: 0b11111111111111111111111111111010 en hexadecimal: 0xFFFFFFFA
+VAL en binario: #VALUE! en hexadecimal: #VALUE!
+
+Errores:
+Advertencia: 'ABC' no es un número válido y será ignorado.
+Advertencia: 'ERR' no es un número válido y será ignorado.
+Advertencia: 'VAL' no es un número válido y será ignorado.
+
+Tiempo de ejecución: 0.0 segundos
